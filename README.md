@@ -39,3 +39,7 @@ Once installed and enabled, you can find the Archimedean Spiral mesh under the `
 - **Ring Radius**: The radius of the tubular spiral.
 - **Ring Vertices**: Number of vertices around each tube ring for defining the tube's roundness.
 - **Ring Density**: Density of the rings along the length of the spiral.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
