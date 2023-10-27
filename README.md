@@ -25,7 +25,7 @@ To install this add-on in Blender:
 
 ## Usage
 
-Once installed and enabled, you can find the Archimedean Spiral Mesh add-on under the `Add` > `Mesh`> `Mason's Meshes` menu in the 3D Viewport:
+Once installed and enabled, you can find the Archimedean Spiral mesh under the `Add` > `Mesh`> `Mason's Meshes` menu in the 3D Viewport:
 
 1. Navigate to `Add` > `Mesh` > `Mason's Meshes` > `Archimedean Spiral Mesh`.
 2. Adjust the parameters in the operator panel to customize your spiral.
