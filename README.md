@@ -1,7 +1,7 @@
 # Archimedean Spiral Mesh Add-on for Blender
 
 This Blender add-on allows users to create a 3D Archimedean spiral mesh directly in the Blender viewport. It was designed to simulate coiling a tube in a spiral pattern.
-
+![Alt text](/spiral_1.png?raw=true "Spiral")
 ## Features
 
 - Create Archimedean spiral meshes with adjustable parameters:
